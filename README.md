@@ -1,4 +1,4 @@
-Quality Engineering Analyst | Software Testing | Manual Testing | API Testing | QA | Rest Assured | Selenium | Postman | API Automation | CICD | Jenkins | Service Virtualization 
+**Quality Engineering Analyst | Software Testing | Manual Testing | API Testing | QA | Rest Assured | Selenium | Postman | API Automation | CICD | Jenkins | Service Virtualization**
 
 Welcome to my GitHub profile! I'm a passionate Automation Tester specialized in Selenium, Cucumber, REST Assured, and Postman, with a strong background in Java. I'm enthusiastic about creating efficient and scalable automated test frameworks that help ensure software quality and reliability.
 
