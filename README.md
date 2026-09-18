@@ -22,6 +22,6 @@ coding
 
 💬 Ask me about API Testing, Postman, Rest Assured, TestNG
 
-📫 How to reach me bhavikmohod21@gmail.com
+📫 How to reach me bhavikmohod21@gmail.com , Bmohod1306@gmail.com
 
 Thank you for visiting my GitHub profile!
